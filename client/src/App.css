@@ -1823,5 +1823,21 @@
     .channel-list__sidebar {
       display: none;
     }
+  } 
+
+
+  .message__wrapper {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
   }
+  
+  .message__avatar {
+    margin-right: 10px;
+  }
+  
+  .message__content {
+    flex-grow: 1;
+  }
+  
   
